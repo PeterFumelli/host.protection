@@ -2,8 +2,8 @@
 
 ### Задание 1
 
-![alt text](https://github.com/PeterFumelli/Indexes/blob/main/img/1.png)
+![alt text](https://github.com/PeterFumelli/host.protection/blob/main/img/eCryptfs.png)
 
 ### Задание 2
 
-![alt text](https://github.com/PeterFumelli/Indexes/blob/main/img/1.png)
+![alt text](https://github.com/PeterFumelli/host.protection/blob/main/img/LUKS.png)
